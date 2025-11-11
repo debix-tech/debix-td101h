@@ -25,7 +25,7 @@ DEBIX TD101H
 
 ## Specification:
 | DEBIX TD101H |  |
-|--------------|--|
+|:--------------|--|
 | LCD Size     | 10.1 inches (Diagonal) |
 | Resolution   | 1280 x 800 |
 | Active Area  | 135.36mm x 216.58mm |
